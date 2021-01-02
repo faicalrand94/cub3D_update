@@ -1,0 +1,15 @@
+resolution:
+    + R 10+10 1500
+    + R  +1500 1500
+textures:
+    + invalid file ==> seg
+colors:
++    F 158 , 12 , +158
++    F somthing 158,12,158
++    F 158,,12,158
++    F 158,12,15+8
++    F 1580,12,158
+map:
+    + whene you have a large map
+    + whene your player is allocated in island
+    - line of space
